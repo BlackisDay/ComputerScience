@@ -16,7 +16,7 @@ validate the username:
 
 <br/><br/>
 <p align="center">
-  <img src="./img/regexp-en.png" alt="Regular expression">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OiuXjsMw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dxy7culkg79az2jxelbb.png" alt="Regular expression">
 </p>
 
 The regular expression above can accept the strings `john_doe`, `jo-hn_doe` and
@@ -113,4 +113,4 @@ A lookahead assertion "looks ahead": it attempts to match the subsequent input w
 Syntax of this is (?=pattern) or (?!pattern). This syntax is used in conjunction with the lookbehind assertion (?<=pattern) or (?<!pattern)
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+https://github.com/BlackisDay/
